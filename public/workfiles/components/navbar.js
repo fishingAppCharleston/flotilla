@@ -3,6 +3,6 @@ import { Link } from 'react-router';
 
 export default (props) => {
   return (
-    <div />
+    <div>This is a navbar!</div>
   );
 }
