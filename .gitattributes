@@ -1,1 +1,2 @@
-c/bundle.js
+c/bundle.js linguist-vendored
+gradle/* linguist-vendored
