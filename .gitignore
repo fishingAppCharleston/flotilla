@@ -6,3 +6,5 @@
 build
 .gradle
 .xml
+/public/node_modules
+
