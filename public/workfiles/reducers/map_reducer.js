@@ -1,6 +1,6 @@
 import { ADD_FILTER, REMOVE_FILTER } from '../actions/index';
 
-const INITIAL_STATE = { filters: [ { } ], position: { lat: 32.7765, lng: 79.9311 } };
+const INITIAL_STATE = { filters: [ { } ], position: { lat: 32.7765, lng: -79.9311 } };
 
 export default function(state = INITIAL_STATE, action) {
   switch(action.type) {
@@ -16,8 +16,6 @@ export default function(state = INITIAL_STATE, action) {
           (filter) => action.payload.type !== filter.type
         )]
       };
-      
-    default:
-      return state;
   }
+  return state;
 }

@@ -1,3 +1,4 @@
+/* eslint esnext: true */
 import React, { Component, } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -8,19 +9,16 @@ import Legend from '../components/map_legend';
 
 import { fetchLandings, searchLocation as search  } from '../actions/index';
 
-// function mapDispatchToProps(dispatch) {
-//   return bindActionCreators({ fetchPosts }, dispatch);
-// }
-
-
 class MapPage extends Component {
 
   render() {
+    let { lat, lng } = this.props.map.position;
+    console.log("please render")
     return (	
       <div>
         <navbar />
         <Legend onSubmit={ search } />
-        <Map filter={this.props.map.filters} lng={this.props.map.lng} lat={this.props.map.lat} />
+        <Map filter={this.props.map.filters} lng={ lng } lat={ lat } />
       </div>
     )
   }
@@ -28,7 +26,7 @@ class MapPage extends Component {
 
 function mapStateToProps(state) {
     return {
-        map
+        map: state.map
     };
 }
 
