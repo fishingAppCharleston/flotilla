@@ -3,7 +3,6 @@ import React, { Component, } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
-import navBar from '../components/navbar';
 import Map from '../components/map';
 import Legend from '../components/map_legend';
 
@@ -16,7 +15,6 @@ class MapPage extends Component {
     console.log("please render")
     return (	
       <div>
-        <navbar />
         <Legend onSubmit={ search } />
         <Map filter={this.props.map.filters} lng={ lng } lat={ lat } />
       </div>

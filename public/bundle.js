@@ -27752,7 +27752,7 @@
 
 	var _app2 = _interopRequireDefault(_app);
 
-	var _map_page = __webpack_require__(256);
+	var _map_page = __webpack_require__(257);
 
 	var _map_page2 = _interopRequireDefault(_map_page);
 
@@ -27780,6 +27780,10 @@
 
 	var _react2 = _interopRequireDefault(_react);
 
+	var _navbar = __webpack_require__(256);
+
+	var _navbar2 = _interopRequireDefault(_navbar);
+
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -27803,7 +27807,12 @@
 	      return _react2.default.createElement(
 	        'div',
 	        null,
-	        this.props.children
+	        _react2.default.createElement(_navbar2.default, null),
+	        _react2.default.createElement(
+	          'div',
+	          null,
+	          this.props.children
+	        )
 	      );
 	    }
 	  }]);
@@ -27823,6 +27832,32 @@
 	  value: true
 	});
 
+	var _react = __webpack_require__(2);
+
+	var _react2 = _interopRequireDefault(_react);
+
+	var _reactRouter = __webpack_require__(186);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	exports.default = function (props) {
+	  return _react2.default.createElement(
+	    'div',
+	    null,
+	    'This is a navbar!'
+	  );
+	};
+
+/***/ },
+/* 257 */
+/***/ function(module, exports, __webpack_require__) {
+
+	'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
 	var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
 	var _react = __webpack_require__(2);
@@ -27832,10 +27867,6 @@
 	var _reactRedux = __webpack_require__(160);
 
 	var _redux = __webpack_require__(167);
-
-	var _navbar = __webpack_require__(257);
-
-	var _navbar2 = _interopRequireDefault(_navbar);
 
 	var _map = __webpack_require__(258);
 
@@ -27876,7 +27907,6 @@
 	      return _react2.default.createElement(
 	        'div',
 	        null,
-	        _react2.default.createElement('navbar', null),
 	        _react2.default.createElement(_map_legend2.default, { onSubmit: _index.searchLocation }),
 	        _react2.default.createElement(_map2.default, { filter: this.props.map.filters, lng: lng, lat: lat })
 	      );
@@ -27897,28 +27927,6 @@
 	}
 
 	exports.default = (0, _reactRedux.connect)(mapStateToProps, mapDispatchToProps)(MapPage);
-
-/***/ },
-/* 257 */
-/***/ function(module, exports, __webpack_require__) {
-
-	'use strict';
-
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-
-	var _react = __webpack_require__(2);
-
-	var _react2 = _interopRequireDefault(_react);
-
-	var _reactRouter = __webpack_require__(186);
-
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-	exports.default = function (props) {
-	  return _react2.default.createElement('div', null);
-	};
 
 /***/ },
 /* 258 */
