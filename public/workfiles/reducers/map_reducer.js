@@ -1,4 +1,5 @@
 import { ADD_FILTER, REMOVE_FILTER } from '../actions/index';
+import { createSelector } from 'reselect';
 
 const INITIAL_STATE = { filters: [ { } ], position: { lat: 32.7765, lng: -79.9311 } };
 

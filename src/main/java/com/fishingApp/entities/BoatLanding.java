@@ -32,4 +32,71 @@ public class BoatLanding {
 
     @Column(nullable = false)
     public double lng;
+
+    public BoatLanding() {
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getOwner() {
+        return owner;
+    }
+
+    public void setOwner(String owner) {
+        this.owner = owner;
+    }
+
+    public String getCounty() {
+        return county;
+    }
+
+    public void setCounty(String county) {
+        this.county = county;
+    }
+
+    public String getBodyOfWater() {
+        return bodyOfWater;
+    }
+
+    public void setBodyOfWater(String bodyOfWater) {
+        this.bodyOfWater = bodyOfWater;
+    }
+
+    public String getWaterType() {
+        return waterType;
+    }
+
+    public void setWaterType(String waterType) {
+        this.waterType = waterType;
+    }
+
+    public double getLat() {
+        return lat;
+    }
+
+    public void setLat(double lat) {
+        this.lat = lat;
+    }
+
+    public double getLng() {
+        return lng;
+    }
+
+    public void setLng(double lng) {
+        this.lng = lng;
+    }
 }

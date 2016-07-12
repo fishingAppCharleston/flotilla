@@ -2,8 +2,9 @@
 import React, { Component, } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import Legend form 
 
+import store from '../index';
+import Search from '../components/search';
 import Map from '../components/map';
 import Legend from '../components/map_legend';
 
@@ -13,6 +14,7 @@ class MapPage extends Component {
 
   render() {
     let { lat, lng } = this.props.map.position;
+    console.log(store);
     console.log("please render")
     return (	
       <div>

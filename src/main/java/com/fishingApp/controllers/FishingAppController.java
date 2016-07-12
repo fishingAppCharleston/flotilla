@@ -5,10 +5,15 @@ import com.fishingApp.entities.User;
 import com.fishingApp.services.BoatLandingsRepository;
 import com.fishingApp.services.UserRepository;
 import com.fishingApp.utils.PasswordHash;
+import com.sun.org.apache.regexp.internal.RE;
 import org.h2.tools.Server;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.PostConstruct;
@@ -93,6 +98,17 @@ public class FishingAppController {
             }
         }
     }
+
+    @RequestMapping(path = "/landings", method = RequestMethod.GET)
+    public ResponseEntity<Object> getLandings() {
+        Iterable<BoatLanding> list = boatLandings.findAll();
+        System.out.println();
+        return new ResponseEntity<Object>(boatLandings.findAll(), HttpStatus.OK);
+    }
+
+
+
+
 
     static String readFile(String fileName) {
         File f = new File(fileName);
