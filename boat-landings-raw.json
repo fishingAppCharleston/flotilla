@@ -1,9 +1,10 @@
-{
-  "landings": {
-    "features": [
-      {
-        type: "Feature",
-        properties: {
+          FACILITYID: 34005,
+          {
+          "landings": {
+          "features": [
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 16,
           FACILITYID: 2003,
           ACCESS_NAM: "Riverview Park",
@@ -23,12 +24,12 @@
           NAVOCEAN: 1,
           X: -81.990044,
           Y: 33.494071
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 191,
           FACILITYID: 19002,
           ACCESS_NAM: "Stevens Creek",
@@ -48,12 +49,12 @@
           NAVOCEAN: 1,
           X: -82.047255,
           Y: 33.57761
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 333,
           FACILITYID: 33027,
           ACCESS_NAM: "Furys Ferry",
@@ -73,12 +74,12 @@
           NAVOCEAN: 1,
           X: -82.116794,
           Y: 33.59791
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 1,
           FACILITYID: 1001,
           ACCESS_NAM: "Calhoun Park",
@@ -98,12 +99,12 @@
           NAVOCEAN: 0,
           X: -82.592902,
           Y: 34.018043
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 2,
           FACILITYID: 1002,
           ACCESS_NAM: "Millwood",
@@ -123,12 +124,12 @@
           NAVOCEAN: 0,
           X: -82.614066,
           Y: 34.064463
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 4,
           FACILITYID: 1004,
           ACCESS_NAM: "Beer Garden Creek",
@@ -148,12 +149,12 @@
           NAVOCEAN: 0,
           X: -82.597724,
           Y: 34.058682
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 5,
           FACILITYID: 1005,
           ACCESS_NAM: "Blue Hole",
@@ -173,12 +174,12 @@
           NAVOCEAN: 0,
           X: -82.610589,
           Y: 34.096084
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 6,
           FACILITYID: 1006,
           ACCESS_NAM: "Latimer",
@@ -198,12 +199,12 @@
           NAVOCEAN: 0,
           X: -82.614776,
           Y: 34.121479
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 8,
           FACILITYID: 1008,
           ACCESS_NAM: "Wilson Creek",
@@ -223,12 +224,12 @@
           NAVOCEAN: 0,
           X: -82.62395,
           Y: 34.251949
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 10,
           FACILITYID: 1010,
           ACCESS_NAM: "Highway 184",
@@ -248,12 +249,12 @@
           NAVOCEAN: 0,
           X: -82.579009,
           Y: 34.312548
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 11,
           FACILITYID: 1011,
           ACCESS_NAM: "Jim Rampey Recreation Area",
@@ -273,12 +274,12 @@
           NAVOCEAN: 0,
           X: -82.631771,
           Y: 34.209875
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 12,
           FACILITYID: 1012,
           ACCESS_NAM: "Harpers Ferry",
@@ -298,12 +299,12 @@
           NAVOCEAN: 0,
           X: -82.713551,
           Y: 34.161802
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 14,
           FACILITYID: 2001,
           ACCESS_NAM: "Jackson",
@@ -323,12 +324,12 @@
           NAVOCEAN: 1,
           X: -81.843519,
           Y: 33.28006
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 37,
           FACILITYID: 4016,
           ACCESS_NAM: "Weldon",
@@ -348,12 +349,12 @@
           NAVOCEAN: 0,
           X: -82.876842,
           Y: 34.483597
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 38,
           FACILITYID: 4017,
           ACCESS_NAM: "Double Springs",
@@ -373,12 +374,12 @@
           NAVOCEAN: 0,
           X: -82.861291,
           Y: 34.480001
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 42,
           FACILITYID: 4021,
           ACCESS_NAM: "Crescent",
@@ -398,12 +399,12 @@
           NAVOCEAN: 0,
           X: -82.821207,
           Y: 34.38123
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 43,
           FACILITYID: 4022,
           ACCESS_NAM: "Townville",
@@ -423,12 +424,12 @@
           NAVOCEAN: 0,
           X: -82.8748,
           Y: 34.588976
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 44,
           FACILITYID: 4023,
           ACCESS_NAM: "Ponderosa",
@@ -448,12 +449,12 @@
           NAVOCEAN: 0,
           X: -82.853263,
           Y: 34.562025
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 45,
           FACILITYID: 4024,
           ACCESS_NAM: "Camp Creek",
@@ -473,12 +474,12 @@
           NAVOCEAN: 0,
           X: -82.844095,
           Y: 34.572776
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 48,
           FACILITYID: 4027,
           ACCESS_NAM: "White City",
@@ -498,12 +499,12 @@
           NAVOCEAN: 0,
           X: -82.756621,
           Y: 34.539489
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 49,
           FACILITYID: 4028,
           ACCESS_NAM: "Durham Access Area",
@@ -523,12 +524,12 @@
           NAVOCEAN: 0,
           X: -82.971722,
           Y: 34.491473
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 50,
           FACILITYID: 4029,
           ACCESS_NAM: "Dr James A Timmerman",
@@ -548,12 +549,12 @@
           NAVOCEAN: 0,
           X: -82.457795,
           Y: 34.651717
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 51,
           FACILITYID: 4030,
           ACCESS_NAM: "Smith McGee",
@@ -573,12 +574,12 @@
           NAVOCEAN: 0,
           X: -82.789206,
           Y: 34.323124
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 52,
           FACILITYID: 4031,
           ACCESS_NAM: "Mountain View",
@@ -598,12 +599,12 @@
           NAVOCEAN: 0,
           X: -82.769314,
           Y: 34.286278
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 54,
           FACILITYID: 4033,
           ACCESS_NAM: "Greg Shoals",
@@ -623,12 +624,12 @@
           NAVOCEAN: 0,
           X: -82.740317,
           Y: 34.213791
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 56,
           FACILITYID: 5001,
           ACCESS_NAM: "Bobcat",
@@ -648,12 +649,12 @@
           NAVOCEAN: 1,
           X: -81.020175,
           Y: 33.33708
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 79,
           FACILITYID: 7010,
           ACCESS_NAM: "White Hall",
@@ -673,12 +674,12 @@
           NAVOCEAN: 1,
           X: -80.6624,
           Y: 32.420604
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 80,
           FACILITYID: 7011,
           ACCESS_NAM: "Capers",
@@ -698,12 +699,12 @@
           NAVOCEAN: 1,
           X: -80.628442,
           Y: 32.370974
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 81,
           FACILITYID: 7012,
           ACCESS_NAM: "Russ Point",
@@ -723,12 +724,12 @@
           NAVOCEAN: 1,
           X: -80.469679,
           Y: 32.346051
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 83,
           FACILITYID: 7014,
           ACCESS_NAM: "Edgar Glenn",
@@ -748,12 +749,12 @@
           NAVOCEAN: 1,
           X: -80.836783,
           Y: 32.373746
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 85,
           FACILITYID: 7016,
           ACCESS_NAM: "Broad Creek",
@@ -773,12 +774,12 @@
           NAVOCEAN: 1,
           X: -80.718296,
           Y: 32.199396
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 87,
           FACILITYID: 7018,
           ACCESS_NAM: "Eddings",
@@ -798,12 +799,12 @@
           NAVOCEAN: 1,
           X: -80.550199,
           Y: 32.437896
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 88,
           FACILITYID: 7019,
           ACCESS_NAM: "Butchs Island",
@@ -823,12 +824,12 @@
           NAVOCEAN: 1,
           X: -80.466653,
           Y: 32.407939
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 90,
           FACILITYID: 7021,
           ACCESS_NAM: "Freedom Mall",
@@ -848,12 +849,12 @@
           NAVOCEAN: 1,
           X: -80.674826,
           Y: 32.431193
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 91,
           FACILITYID: 7023,
           ACCESS_NAM: "Paige Point",
@@ -873,12 +874,12 @@
           NAVOCEAN: 1,
           X: -80.761269,
           Y: 32.550031
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 92,
           FACILITYID: 7024,
           ACCESS_NAM: "HE Trask Sr",
@@ -898,12 +899,12 @@
           NAVOCEAN: 1,
           X: -80.808361,
           Y: 32.289122
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 95,
           FACILITYID: 7027,
           ACCESS_NAM: "Public Boat Dock Facility",
@@ -923,12 +924,12 @@
           NAVOCEAN: 1,
           X: -80.863497,
           Y: 32.230596
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 97,
           FACILITYID: 8002,
           ACCESS_NAM: "Thornley Forest II",
@@ -948,12 +949,12 @@
           NAVOCEAN: 1,
           X: -80.030012,
           Y: 33.218728
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 98,
           FACILITYID: 8003,
           ACCESS_NAM: "Hatchery",
@@ -973,12 +974,12 @@
           NAVOCEAN: 1,
           X: -80.103029,
           Y: 33.268526
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 57,
           FACILITYID: 5002,
           ACCESS_NAM: "Rivers Bridge",
@@ -998,12 +999,12 @@
           NAVOCEAN: 1,
           X: -81.096931,
           Y: 33.045373
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 58,
           FACILITYID: 5003,
           ACCESS_NAM: "Bufords Bridge",
@@ -1023,12 +1024,12 @@
           NAVOCEAN: 1,
           X: -81.185524,
           Y: 33.113207
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 60,
           FACILITYID: 5005,
           ACCESS_NAM: "Claudes",
@@ -1048,12 +1049,12 @@
           NAVOCEAN: 1,
           X: -81.114004,
           Y: 33.381572
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 61,
           FACILITYID: 5006,
           ACCESS_NAM: "Brabhams",
@@ -1073,12 +1074,12 @@
           NAVOCEAN: 1,
           X: -80.965541,
           Y: 33.313958
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 66,
           FACILITYID: 6005,
           ACCESS_NAM: "Ramp B",
@@ -1098,12 +1099,12 @@
           NAVOCEAN: 1,
           X: -81.367836,
           Y: 33.257451
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 67,
           FACILITYID: 6006,
           ACCESS_NAM: "Ramp C",
@@ -1123,12 +1124,12 @@
           NAVOCEAN: 1,
           X: -81.369024,
           Y: 33.253686
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 68,
           FACILITYID: 6007,
           ACCESS_NAM: "Ramp D",
@@ -1148,12 +1149,12 @@
           NAVOCEAN: 1,
           X: -81.363032,
           Y: 33.261857
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 69,
           FACILITYID: 6008,
           ACCESS_NAM: "Ramp E",
@@ -1173,12 +1174,12 @@
           NAVOCEAN: 1,
           X: -81.36965,
           Y: 33.254729
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 72,
           FACILITYID: 7003,
           ACCESS_NAM: "Winbee Creek",
@@ -1198,12 +1199,12 @@
           NAVOCEAN: 1,
           X: -80.669769,
           Y: 32.578083
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 73,
           FACILITYID: 7004,
           ACCESS_NAM: "Grays Hill",
@@ -1223,12 +1224,12 @@
           NAVOCEAN: 1,
           X: -80.784503,
           Y: 32.503666
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 74,
           FACILITYID: 7005,
           ACCESS_NAM: "Broad River",
@@ -1248,12 +1249,12 @@
           NAVOCEAN: 1,
           X: -80.775798,
           Y: 32.391955
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 75,
           FACILITYID: 7006,
           ACCESS_NAM: "Parris Island",
@@ -1273,12 +1274,12 @@
           NAVOCEAN: 1,
           X: -80.717769,
           Y: 32.377762
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 17,
           FACILITYID: 2004,
           ACCESS_NAM: "Aiken State Park",
@@ -1298,12 +1299,12 @@
           NAVOCEAN: 1,
           X: -81.48356,
           Y: 33.555763
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 20,
           FACILITYID: 3002,
           ACCESS_NAM: "Cohens Bluff",
@@ -1323,12 +1324,12 @@
           NAVOCEAN: 1,
           X: -81.426862,
           Y: 32.841702
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 21,
           FACILITYID: 3003,
           ACCESS_NAM: "Johnsons",
@@ -1348,12 +1349,12 @@
           NAVOCEAN: 1,
           X: -81.490603,
           Y: 32.998411
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 22,
           FACILITYID: 4001,
           ACCESS_NAM: "Sadlers Creek State Park",
@@ -1373,12 +1374,12 @@
           NAVOCEAN: 0,
           X: -82.822545,
           Y: 34.427664
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 23,
           FACILITYID: 4002,
           ACCESS_NAM: "Hurricane Creek",
@@ -1398,12 +1399,12 @@
           NAVOCEAN: 0,
           X: -82.713977,
           Y: 34.568567
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 26,
           FACILITYID: 4005,
           ACCESS_NAM: "Island Point",
@@ -1423,12 +1424,12 @@
           NAVOCEAN: 0,
           X: -82.817338,
           Y: 34.404915
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 27,
           FACILITYID: 4006,
           ACCESS_NAM: "Richland Creek",
@@ -1448,12 +1449,12 @@
           NAVOCEAN: 0,
           X: -82.811747,
           Y: 34.461863
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 28,
           FACILITYID: 4007,
           ACCESS_NAM: "Springfield Campground",
@@ -1473,12 +1474,12 @@
           NAVOCEAN: 0,
           X: -82.824386,
           Y: 34.442449
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 29,
           FACILITYID: 4008,
           ACCESS_NAM: "River Forks",
@@ -1498,12 +1499,12 @@
           NAVOCEAN: 0,
           X: -82.815734,
           Y: 34.473839
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 32,
           FACILITYID: 4011,
           ACCESS_NAM: "Honea Path",
@@ -1523,12 +1524,12 @@
           NAVOCEAN: 0,
           X: -82.7422,
           Y: 34.556398
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 34,
           FACILITYID: 4013,
           ACCESS_NAM: "Denver",
@@ -1548,12 +1549,12 @@
           NAVOCEAN: 0,
           X: -82.741889,
           Y: 34.561513
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 35,
           FACILITYID: 4014,
           ACCESS_NAM: "Broyles",
@@ -1573,12 +1574,12 @@
           NAVOCEAN: 0,
           X: -82.831232,
           Y: 34.513435
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 36,
           FACILITYID: 4015,
           ACCESS_NAM: "Apple Island",
@@ -1598,12 +1599,12 @@
           NAVOCEAN: 0,
           X: -82.838597,
           Y: 34.506536
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 202,
           FACILITYID: 20010,
           ACCESS_NAM: "Subimpoundment",
@@ -1623,12 +1624,12 @@
           NAVOCEAN: 0,
           X: -81.313535,
           Y: 34.379222
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 204,
           FACILITYID: 21002,
           ACCESS_NAM: "Highway 52",
@@ -1648,12 +1649,12 @@
           NAVOCEAN: 1,
           X: -79.754085,
           Y: 34.051417
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 205,
           FACILITYID: 21003,
           ACCESS_NAM: "Odell Venters",
@@ -1673,12 +1674,12 @@
           NAVOCEAN: 1,
           X: -79.448308,
           Y: 33.838955
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 206,
           FACILITYID: 21004,
           ACCESS_NAM: "Bosticks",
@@ -1698,12 +1699,12 @@
           NAVOCEAN: 1,
           X: -79.482753,
           Y: 33.936744
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 207,
           FACILITYID: 21005,
           ACCESS_NAM: "Dewitts Bluff",
@@ -1723,12 +1724,12 @@
           NAVOCEAN: 1,
           X: -79.518353,
           Y: 33.995491
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 210,
           FACILITYID: 22001,
           ACCESS_NAM: "South Island Ferry",
@@ -1748,12 +1749,12 @@
           NAVOCEAN: 1,
           X: -79.269696,
           Y: 33.250912
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 211,
           FACILITYID: 22002,
           ACCESS_NAM: "Harris",
@@ -1773,12 +1774,12 @@
           NAVOCEAN: 1,
           X: -79.434542,
           Y: 33.243059
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 212,
           FACILITYID: 22003,
           ACCESS_NAM: "Hagley",
@@ -1798,12 +1799,12 @@
           NAVOCEAN: 1,
           X: -79.182039,
           Y: 33.436237
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 213,
           FACILITYID: 22004,
           ACCESS_NAM: "Murrells Inlet",
@@ -1823,12 +1824,12 @@
           NAVOCEAN: 1,
           X: -79.034475,
           Y: 33.555268
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 217,
           FACILITYID: 22008,
           ACCESS_NAM: "Pole Yard",
@@ -1848,12 +1849,12 @@
           NAVOCEAN: 1,
           X: -79.382988,
           Y: 33.209688
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 218,
           FACILITYID: 22009,
           ACCESS_NAM: "East Bay Street",
@@ -1873,12 +1874,12 @@
           NAVOCEAN: 1,
           X: -79.280034,
           Y: 33.356544
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 219,
           FACILITYID: 22010,
           ACCESS_NAM: "Wacca Wache",
@@ -1898,12 +1899,12 @@
           NAVOCEAN: 1,
           X: -79.0855,
           Y: 33.562085
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 220,
           FACILITYID: 22011,
           ACCESS_NAM: "Pea House",
@@ -1923,12 +1924,12 @@
           NAVOCEAN: 1,
           X: -79.456057,
           Y: 33.482675
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 221,
           FACILITYID: 22012,
           ACCESS_NAM: "Pine Tree",
@@ -1948,12 +1949,12 @@
           NAVOCEAN: 1,
           X: -79.498914,
           Y: 33.473408
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 224,
           FACILITYID: 22015,
           ACCESS_NAM: "Rocky Point",
@@ -1973,12 +1974,12 @@
           NAVOCEAN: 1,
           X: -79.354795,
           Y: 33.544668
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 226,
           FACILITYID: 22017,
           ACCESS_NAM: "Sandhole",
@@ -1998,12 +1999,12 @@
           NAVOCEAN: 1,
           X: -79.552556,
           Y: 33.284188
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 227,
           FACILITYID: 22018,
           ACCESS_NAM: "Pringles Ferry",
@@ -2023,12 +2024,12 @@
           NAVOCEAN: 1,
           X: -79.263614,
           Y: 33.449688
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 228,
           FACILITYID: 22019,
           ACCESS_NAM: "Pritchard Street",
@@ -2048,12 +2049,12 @@
           NAVOCEAN: 1,
           X: -79.135502,
           Y: 33.411952
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 230,
           FACILITYID: 22021,
           ACCESS_NAM: "Shell Road",
@@ -2073,12 +2074,12 @@
           NAVOCEAN: 1,
           X: -79.115382,
           Y: 33.442148
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 233,
           FACILITYID: 23001,
           ACCESS_NAM: "John A. Robinson Park",
@@ -2098,12 +2099,12 @@
           NAVOCEAN: 0,
           X: -82.296736,
           Y: 34.99256
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 234,
           FACILITYID: 23002,
           ACCESS_NAM: "Lake Cunningham Recreation Facility",
@@ -2123,12 +2124,12 @@
           NAVOCEAN: 0,
           X: -82.275188,
           Y: 34.984413
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 235,
           FACILITYID: 24001,
           ACCESS_NAM: "Greenwood Shores",
@@ -2148,12 +2149,12 @@
           NAVOCEAN: 0,
           X: -81.934101,
           Y: 34.186479
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 238,
           FACILITYID: 24004,
           ACCESS_NAM: "Greenwood Access Area",
@@ -2173,12 +2174,12 @@
           NAVOCEAN: 0,
           X: -81.920052,
           Y: 34.174138
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 239,
           FACILITYID: 25001,
           ACCESS_NAM: "Highway 21",
@@ -2198,12 +2199,12 @@
           NAVOCEAN: 1,
           X: -80.828311,
           Y: 32.705909
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 240,
           FACILITYID: 25002,
           ACCESS_NAM: "Stokes Bluff",
@@ -2223,12 +2224,12 @@
           NAVOCEAN: 1,
           X: -81.284341,
           Y: 32.557374
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 241,
           FACILITYID: 25003,
           ACCESS_NAM: "Goat Hill",
@@ -2248,12 +2249,12 @@
           NAVOCEAN: 1,
           X: -81.053436,
           Y: 32.989395
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 245,
           FACILITYID: 26001,
           ACCESS_NAM: "Yauhannah",
@@ -2273,12 +2274,12 @@
           NAVOCEAN: 1,
           X: -79.153052,
           Y: 33.661539
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 247,
           FACILITYID: 26003,
           ACCESS_NAM: "Rosewood",
@@ -2298,12 +2299,12 @@
           NAVOCEAN: 1,
           X: -78.99247,
           Y: 33.692349
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 248,
           FACILITYID: 26004,
           ACCESS_NAM: "Pitts",
@@ -2323,12 +2324,12 @@
           NAVOCEAN: 1,
           X: -79.249076,
           Y: 33.831748
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 251,
           FACILITYID: 26007,
           ACCESS_NAM: "Red Bluff",
@@ -2348,12 +2349,12 @@
           NAVOCEAN: 1,
           X: -78.839898,
           Y: 33.898697
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 252,
           FACILITYID: 26008,
           ACCESS_NAM: "Reaves Ferry",
@@ -2373,12 +2374,12 @@
           NAVOCEAN: 1,
           X: -78.897898,
           Y: 33.850597
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 254,
           FACILITYID: 26011,
           ACCESS_NAM: "Sandy Bluff",
@@ -2398,12 +2399,12 @@
           NAVOCEAN: 1,
           X: -79.205663,
           Y: 34.140616
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 255,
           FACILITYID: 26012,
           ACCESS_NAM: "Ricefield Cove",
@@ -2423,12 +2424,12 @@
           NAVOCEAN: 1,
           X: -79.129994,
           Y: 34.221998
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 256,
           FACILITYID: 26013,
           ACCESS_NAM: "Gunters Lake",
@@ -2448,12 +2449,12 @@
           NAVOCEAN: 1,
           X: -79.314925,
           Y: 33.949591
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 258,
           FACILITYID: 26015,
           ACCESS_NAM: "Punch Bowl",
@@ -2473,12 +2474,12 @@
           NAVOCEAN: 1,
           X: -79.219026,
           Y: 33.756822
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 260,
           FACILITYID: 26017,
           ACCESS_NAM: "North Myrtle Beach",
@@ -2498,12 +2499,12 @@
           NAVOCEAN: 1,
           X: -78.684786,
           Y: 33.833054
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 261,
           FACILITYID: 26018,
           ACCESS_NAM: "Lees",
@@ -2523,12 +2524,12 @@
           NAVOCEAN: 1,
           X: -78.977299,
           Y: 33.845298
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 262,
           FACILITYID: 26019,
           ACCESS_NAM: "Savannah Bluff",
@@ -2548,12 +2549,12 @@
           NAVOCEAN: 1,
           X: -79.041962,
           Y: 33.816545
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 99,
           FACILITYID: 8004,
           ACCESS_NAM: "William Dennis",
@@ -2573,12 +2574,12 @@
           NAVOCEAN: 1,
           X: -79.973463,
           Y: 33.213096
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 100,
           FACILITYID: 8005,
           ACCESS_NAM: "Dunham Creek",
@@ -2598,12 +2599,12 @@
           NAVOCEAN: 1,
           X: -79.957768,
           Y: 33.057729
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 103,
           FACILITYID: 8008,
           ACCESS_NAM: "Augustus M Flood",
@@ -2623,12 +2624,12 @@
           NAVOCEAN: 1,
           X: -80.000197,
           Y: 33.313029
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 104,
           FACILITYID: 8009,
           ACCESS_NAM: "Spiers",
@@ -2648,12 +2649,12 @@
           NAVOCEAN: 1,
           X: -80.197467,
           Y: 33.395666
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 105,
           FACILITYID: 8010,
           ACCESS_NAM: "Rembert C Dennis",
@@ -2673,12 +2674,12 @@
           NAVOCEAN: 1,
           X: -79.953237,
           Y: 33.195996
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 106,
           FACILITYID: 8011,
           ACCESS_NAM: "Lenuds",
@@ -2698,12 +2699,12 @@
           NAVOCEAN: 1,
           X: -79.678956,
           Y: 33.304291
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 108,
           FACILITYID: 8013,
           ACCESS_NAM: "Bushy Park - Salt Water",
@@ -2723,12 +2724,12 @@
           NAVOCEAN: 1,
           X: -79.937084,
           Y: 32.967065
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 109,
           FACILITYID: 8014,
           ACCESS_NAM: "Huger Park",
@@ -2748,12 +2749,12 @@
           NAVOCEAN: 1,
           X: -79.811099,
           Y: 33.131097
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 111,
           FACILITYID: 8016,
           ACCESS_NAM: "Ralph Hamer Sr",
@@ -2773,12 +2774,12 @@
           NAVOCEAN: 1,
           X: -79.807613,
           Y: 33.094618
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 112,
           FACILITYID: 8017,
           ACCESS_NAM: "Wilsons",
@@ -2798,12 +2799,12 @@
           NAVOCEAN: 1,
           X: -80.158328,
           Y: 33.448276
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 114,
           FACILITYID: 8019,
           ACCESS_NAM: "Bushy Park - Fresh Water",
@@ -2823,12 +2824,12 @@
           NAVOCEAN: 1,
           X: -79.937499,
           Y: 32.967797
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 115,
           FACILITYID: 8020,
           ACCESS_NAM: "Richardsons",
@@ -2848,12 +2849,12 @@
           NAVOCEAN: 1,
           X: -79.997625,
           Y: 33.311111
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 116,
           FACILITYID: 8021,
           ACCESS_NAM: "Amos Lee Gourdine",
@@ -2873,12 +2874,12 @@
           NAVOCEAN: 1,
           X: -79.992829,
           Y: 33.402125
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 119,
           FACILITYID: 10001,
           ACCESS_NAM: "Pier Point",
@@ -2898,12 +2899,12 @@
           NAVOCEAN: 1,
           X: -80.043099,
           Y: 32.837798
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 121,
           FACILITYID: 10003,
           ACCESS_NAM: "Paradise",
@@ -2923,12 +2924,12 @@
           NAVOCEAN: 1,
           X: -79.737199,
           Y: 32.913697
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 122,
           FACILITYID: 10004,
           ACCESS_NAM: "Steamboat",
@@ -2948,12 +2949,12 @@
           NAVOCEAN: 1,
           X: -80.293128,
           Y: 32.60237
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 125,
           FACILITYID: 10007,
           ACCESS_NAM: "R. M. Hendrick's (Virginia Av. Park)",
@@ -2973,12 +2974,12 @@
           NAVOCEAN: 1,
           X: -79.971025,
           Y: 32.891117
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 127,
           FACILITYID: 10009,
           ACCESS_NAM: "Buck Hall",
@@ -2998,12 +2999,12 @@
           NAVOCEAN: 1,
           X: -79.560997,
           Y: 33.038489
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 128,
           FACILITYID: 10010,
           ACCESS_NAM: "Battery Island",
@@ -3023,12 +3024,12 @@
           NAVOCEAN: 1,
           X: -79.997199,
           Y: 32.668298
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 129,
           FACILITYID: 10011,
           ACCESS_NAM: "Folly River",
@@ -3048,12 +3049,12 @@
           NAVOCEAN: 1,
           X: -79.943239,
           Y: 32.659984
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 132,
           FACILITYID: 10014,
           ACCESS_NAM: "Cherry Point",
@@ -3073,12 +3074,12 @@
           NAVOCEAN: 1,
           X: -80.182823,
           Y: 32.59795
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 134,
           FACILITYID: 10016,
           ACCESS_NAM: "Garris Landing",
@@ -3098,12 +3099,12 @@
           NAVOCEAN: 1,
           X: -79.657506,
           Y: 32.939817
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 135,
           FACILITYID: 10017,
           ACCESS_NAM: "Stills",
@@ -3123,12 +3124,12 @@
           NAVOCEAN: 1,
           X: -79.496699,
           Y: 33.177397
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 136,
           FACILITYID: 10018,
           ACCESS_NAM: "Martins",
@@ -3148,12 +3149,12 @@
           NAVOCEAN: 1,
           X: -80.394506,
           Y: 32.843543
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 138,
           FACILITYID: 10020,
           ACCESS_NAM: "Willtown Bluff",
@@ -3173,12 +3174,12 @@
           NAVOCEAN: 1,
           X: -80.416199,
           Y: 32.678696
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 140,
           FACILITYID: 10022,
           ACCESS_NAM: "Harry M. Hallman, Jr.",
@@ -3198,12 +3199,12 @@
           NAVOCEAN: 1,
           X: -79.8768,
           Y: 32.793096
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 142,
           FACILITYID: 10025,
           ACCESS_NAM: "County Farm",
@@ -3223,12 +3224,12 @@
           NAVOCEAN: 1,
           X: -80.02099,
           Y: 32.836385
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 145,
           FACILITYID: 11001,
           ACCESS_NAM: "Lake Cherokee",
@@ -3248,12 +3249,12 @@
           NAVOCEAN: 0,
           X: -81.576879,
           Y: 35.041944
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 146,
           FACILITYID: 11002,
           ACCESS_NAM: "Thicketty Creek",
@@ -3273,12 +3274,12 @@
           NAVOCEAN: 0,
           X: -81.778353,
           Y: 35.079009
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 149,
           FACILITYID: 11005,
           ACCESS_NAM: "99 Island",
@@ -3298,12 +3299,12 @@
           NAVOCEAN: 1,
           X: -81.489848,
           Y: 35.026766
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 151,
           FACILITYID: 12003,
           ACCESS_NAM: "Woods Ferry Recreation Area",
@@ -3323,12 +3324,12 @@
           NAVOCEAN: 1,
           X: -81.453826,
           Y: 34.703194
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 152,
           FACILITYID: 12004,
           ACCESS_NAM: "Fishing Creek",
@@ -3348,12 +3349,12 @@
           NAVOCEAN: 0,
           X: -80.8942,
           Y: 34.618002
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 153,
           FACILITYID: 12005,
           ACCESS_NAM: "Lake Oliphant",
@@ -3373,12 +3374,12 @@
           NAVOCEAN: 0,
           X: -81.183715,
           Y: 34.795861
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 155,
           FACILITYID: 13001,
           ACCESS_NAM: "Laney",
@@ -3398,12 +3399,12 @@
           NAVOCEAN: 1,
           X: -79.874376,
           Y: 34.698563
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 156,
           FACILITYID: 13002,
           ACCESS_NAM: "Lake Robinson",
@@ -3423,12 +3424,12 @@
           NAVOCEAN: 0,
           X: -80.168481,
           Y: 34.468857
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 157,
           FACILITYID: 13003,
           ACCESS_NAM: "Pool D",
@@ -3448,12 +3449,12 @@
           NAVOCEAN: 0,
           X: -80.225331,
           Y: 34.563612
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 158,
           FACILITYID: 13004,
           ACCESS_NAM: "Mays Lake",
@@ -3473,12 +3474,12 @@
           NAVOCEAN: 0,
           X: -80.176129,
           Y: 34.57804
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 159,
           FACILITYID: 13005,
           ACCESS_NAM: "Pool L",
@@ -3498,12 +3499,12 @@
           NAVOCEAN: 0,
           X: -80.218114,
           Y: 34.630414
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 160,
           FACILITYID: 14001,
           ACCESS_NAM: "C Alex Harvin III",
@@ -3523,12 +3524,12 @@
           NAVOCEAN: 1,
           X: -80.2039,
           Y: 33.558897
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 163,
           FACILITYID: 14004,
           ACCESS_NAM: "Taw Caw Park",
@@ -3548,12 +3549,12 @@
           NAVOCEAN: 1,
           X: -80.33168,
           Y: 33.535388
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 165,
           FACILITYID: 14006,
           ACCESS_NAM: "White Oak III",
@@ -3573,12 +3574,12 @@
           NAVOCEAN: 1,
           X: -80.216191,
           Y: 33.571613
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 166,
           FACILITYID: 14007,
           ACCESS_NAM: "John C Land III",
@@ -3598,12 +3599,12 @@
           NAVOCEAN: 1,
           X: -80.308316,
           Y: 33.524207
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 167,
           FACILITYID: 15001,
           ACCESS_NAM: "Brickyard Ferry",
@@ -3623,12 +3624,12 @@
           NAVOCEAN: 1,
           X: -80.481849,
           Y: 32.613199
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 169,
           FACILITYID: 15003,
           ACCESS_NAM: "Prices Bridge",
@@ -3648,12 +3649,12 @@
           NAVOCEAN: 1,
           X: -80.533099,
           Y: 32.783898
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 170,
           FACILITYID: 15004,
           ACCESS_NAM: "Cuckholds",
@@ -3673,12 +3674,12 @@
           NAVOCEAN: 1,
           X: -80.69424,
           Y: 32.714255
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 172,
           FACILITYID: 15006,
           ACCESS_NAM: "West Bank",
@@ -3698,12 +3699,12 @@
           NAVOCEAN: 1,
           X: -80.451741,
           Y: 32.735933
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 174,
           FACILITYID: 15008,
           ACCESS_NAM: "Sullivans Ferry",
@@ -3723,12 +3724,12 @@
           NAVOCEAN: 1,
           X: -80.406917,
           Y: 32.912177
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 176,
           FACILITYID: 15010,
           ACCESS_NAM: "Good Hope",
@@ -3748,12 +3749,12 @@
           NAVOCEAN: 1,
           X: -80.418252,
           Y: 32.965827
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 177,
           FACILITYID: 15011,
           ACCESS_NAM: "Mars Oldfield",
@@ -3773,12 +3774,12 @@
           NAVOCEAN: 1,
           X: -80.449731,
           Y: 33.054826
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 178,
           FACILITYID: 15012,
           ACCESS_NAM: "Public",
@@ -3798,12 +3799,12 @@
           NAVOCEAN: 1,
           X: -80.811826,
           Y: 32.697977
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 180,
           FACILITYID: 15014,
           ACCESS_NAM: "Old Chehaw",
@@ -3823,12 +3824,12 @@
           NAVOCEAN: 1,
           X: -80.587643,
           Y: 32.634199
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 181,
           FACILITYID: 16001,
           ACCESS_NAM: "Whipples",
@@ -3848,12 +3849,12 @@
           NAVOCEAN: 0,
           X: -79.723597,
           Y: 34.325566
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 184,
           FACILITYID: 16005,
           ACCESS_NAM: "Sonovista Park",
@@ -3873,12 +3874,12 @@
           NAVOCEAN: 0,
           X: -80.069038,
           Y: 34.388074
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 185,
           FACILITYID: 17001,
           ACCESS_NAM: "Floydale Bridge",
@@ -3898,12 +3899,12 @@
           NAVOCEAN: 1,
           X: -79.324272,
           Y: 34.334042
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 186,
           FACILITYID: 17002,
           ACCESS_NAM: "Moccasins Bluff",
@@ -3923,12 +3924,12 @@
           NAVOCEAN: 1,
           X: -79.365,
           Y: 34.470297
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 187,
           FACILITYID: 17003,
           ACCESS_NAM: "Dillon County Park",
@@ -3948,12 +3949,12 @@
           NAVOCEAN: 1,
           X: -79.353969,
           Y: 34.368722
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 189,
           FACILITYID: 18002,
           ACCESS_NAM: "T Coke Weeks",
@@ -3973,12 +3974,12 @@
           NAVOCEAN: 1,
           X: -80.612984,
           Y: 33.064857
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 195,
           FACILITYID: 20002,
           ACCESS_NAM: "June Creek",
@@ -3998,12 +3999,12 @@
           NAVOCEAN: 0,
           X: -80.829423,
           Y: 34.391243
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 196,
           FACILITYID: 20004,
           ACCESS_NAM: "Taylor Creek",
@@ -4023,12 +4024,12 @@
           NAVOCEAN: 0,
           X: -80.875777,
           Y: 34.437712
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 198,
           FACILITYID: 20006,
           ACCESS_NAM: "Debutary",
@@ -4048,12 +4049,12 @@
           NAVOCEAN: 0,
           X: -80.89034,
           Y: 34.539099
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 199,
           FACILITYID: 20007,
           ACCESS_NAM: "Lake Wateree State Park",
@@ -4073,12 +4074,12 @@
           NAVOCEAN: 0,
           X: -80.858367,
           Y: 34.432823
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 200,
           FACILITYID: 20008,
           ACCESS_NAM: "Lake Monticello East",
@@ -4098,12 +4099,12 @@
           NAVOCEAN: 0,
           X: -81.285625,
           Y: 34.327547
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 358,
           FACILITYID: 37002,
           ACCESS_NAM: "Timberland",
@@ -4123,12 +4124,12 @@
           NAVOCEAN: 0,
           X: -82.91782,
           Y: 34.595852
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 360,
           FACILITYID: 37004,
           ACCESS_NAM: "Seneca Creek",
@@ -4148,12 +4149,12 @@
           NAVOCEAN: 0,
           X: -82.865853,
           Y: 34.681589
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 362,
           FACILITYID: 37006,
           ACCESS_NAM: "Choestoa Park",
@@ -4173,12 +4174,12 @@
           NAVOCEAN: 0,
           X: -83.101968,
           Y: 34.543137
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 363,
           FACILITYID: 37007,
           ACCESS_NAM: "Lake Hartwell State Park",
@@ -4198,12 +4199,12 @@
           NAVOCEAN: 0,
           X: -83.03142,
           Y: 34.487875
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 364,
           FACILITYID: 37008,
           ACCESS_NAM: "Fairplay",
@@ -4223,12 +4224,12 @@
           NAVOCEAN: 0,
           X: -83.00449,
           Y: 34.489786
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 365,
           FACILITYID: 37009,
           ACCESS_NAM: "Friendship",
@@ -4248,12 +4249,12 @@
           NAVOCEAN: 0,
           X: -82.9078,
           Y: 34.599859
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 368,
           FACILITYID: 37013,
           ACCESS_NAM: "Martin Creek",
@@ -4273,12 +4274,12 @@
           NAVOCEAN: 0,
           X: -82.866738,
           Y: 34.640163
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 369,
           FACILITYID: 37014,
           ACCESS_NAM: "Lawrence Bridge",
@@ -4298,12 +4299,12 @@
           NAVOCEAN: 0,
           X: -82.87467,
           Y: 34.735012
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 370,
           FACILITYID: 37015,
           ACCESS_NAM: "Keowee Town Access",
@@ -4323,12 +4324,12 @@
           NAVOCEAN: 0,
           X: -82.908574,
           Y: 34.85657
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 371,
           FACILITYID: 37016,
           ACCESS_NAM: "Stamp Creek Access",
@@ -4348,12 +4349,12 @@
           NAVOCEAN: 0,
           X: -82.941233,
           Y: 34.828129
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 373,
           FACILITYID: 37018,
           ACCESS_NAM: "Cane Creek",
@@ -4373,12 +4374,12 @@
           NAVOCEAN: 0,
           X: -82.985553,
           Y: 34.735893
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 374,
           FACILITYID: 37019,
           ACCESS_NAM: "South Cove",
@@ -4398,12 +4399,12 @@
           NAVOCEAN: 0,
           X: -82.966728,
           Y: 34.711244
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 376,
           FACILITYID: 37021,
           ACCESS_NAM: "Devils Fork 2",
@@ -4423,12 +4424,12 @@
           NAVOCEAN: 0,
           X: -82.950603,
           Y: 34.963213
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 377,
           FACILITYID: 37022,
           ACCESS_NAM: "Devils Fork 1",
@@ -4448,12 +4449,12 @@
           NAVOCEAN: 0,
           X: -82.953934,
           Y: 34.967235
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 378,
           FACILITYID: 37023,
           ACCESS_NAM: "Jocassee 1",
@@ -4473,12 +4474,12 @@
           NAVOCEAN: 0,
           X: -82.946672,
           Y: 34.953456
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 379,
           FACILITYID: 37024,
           ACCESS_NAM: "Jocassee 2",
@@ -4498,12 +4499,12 @@
           NAVOCEAN: 0,
           X: -82.945301,
           Y: 34.955171
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 382,
           FACILITYID: 38001,
           ACCESS_NAM: "Cathead",
@@ -4523,12 +4524,12 @@
           NAVOCEAN: 1,
           X: -80.322528,
           Y: 33.415951
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 384,
           FACILITYID: 38003,
           ACCESS_NAM: "Hog Pen",
@@ -4548,12 +4549,12 @@
           NAVOCEAN: 1,
           X: -81.265516,
           Y: 33.45535
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 385,
           FACILITYID: 38004,
           ACCESS_NAM: "Slab",
@@ -4573,12 +4574,12 @@
           NAVOCEAN: 1,
           X: -81.038553,
           Y: 33.576567
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 386,
           FACILITYID: 38005,
           ACCESS_NAM: "Kill Kare",
@@ -4598,12 +4599,12 @@
           NAVOCEAN: 1,
           X: -80.881092,
           Y: 33.280179
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 388,
           FACILITYID: 38007,
           ACCESS_NAM: "Santee State Park",
@@ -4623,12 +4624,12 @@
           NAVOCEAN: 1,
           X: -80.50158,
           Y: 33.551905
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 389,
           FACILITYID: 38008,
           ACCESS_NAM: "Rowes Bridge",
@@ -4648,12 +4649,12 @@
           NAVOCEAN: 1,
           X: -80.887452,
           Y: 33.355457
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 392,
           FACILITYID: 38012,
           ACCESS_NAM: "Orangeburg City Boat Landing",
@@ -4673,12 +4674,12 @@
           NAVOCEAN: 1,
           X: -80.873807,
           Y: 33.480042
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 393,
           FACILITYID: 38013,
           ACCESS_NAM: "Eutaw Springs",
@@ -4698,12 +4699,12 @@
           NAVOCEAN: 1,
           X: -80.31,
           Y: 33.410797
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 396,
           FACILITYID: 39003,
           ACCESS_NAM: "Warpath",
@@ -4723,12 +4724,12 @@
           NAVOCEAN: 0,
           X: -82.882295,
           Y: 34.811456
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 397,
           FACILITYID: 39004,
           ACCESS_NAM: "Twelve Mile",
@@ -4748,12 +4749,12 @@
           NAVOCEAN: 0,
           X: -82.8367,
           Y: 34.704398
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 398,
           FACILITYID: 39006,
           ACCESS_NAM: "Twin Lakes",
@@ -4773,12 +4774,12 @@
           NAVOCEAN: 0,
           X: -82.853613,
           Y: 34.622313
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 401,
           FACILITYID: 40002,
           ACCESS_NAM: "Barney Jordan",
@@ -4798,12 +4799,12 @@
           NAVOCEAN: 1,
           X: -81.035696,
           Y: 33.964878
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 402,
           FACILITYID: 40003,
           ACCESS_NAM: "WT -Billy- Tolar",
@@ -4823,12 +4824,12 @@
           NAVOCEAN: 1,
           X: -80.6289,
           Y: 33.947197
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 406,
           FACILITYID: 42001,
           ACCESS_NAM: "Lake Bowen",
@@ -4848,12 +4849,12 @@
           NAVOCEAN: 0,
           X: -82.041962,
           Y: 35.110418
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 407,
           FACILITYID: 42002,
           ACCESS_NAM: "Lake Cooley",
@@ -4873,12 +4874,12 @@
           NAVOCEAN: 0,
           X: -82.093239,
           Y: 34.991563
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 410,
           FACILITYID: 42005,
           ACCESS_NAM: "Lake Blalock Park",
@@ -4898,12 +4899,12 @@
           NAVOCEAN: 0,
           X: -81.886773,
           Y: 35.086247
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 411,
           FACILITYID: 42006,
           ACCESS_NAM: "Lake Lyman",
@@ -4923,12 +4924,12 @@
           NAVOCEAN: 0,
           X: -82.197022,
           Y: 34.994483
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 412,
           FACILITYID: 43002,
           ACCESS_NAM: "Rimini",
@@ -4948,12 +4949,12 @@
           NAVOCEAN: 1,
           X: -80.515044,
           Y: 33.659362
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 413,
           FACILITYID: 43003,
           ACCESS_NAM: "Sparkleberry",
@@ -4973,12 +4974,12 @@
           NAVOCEAN: 1,
           X: -80.536845,
           Y: 33.70138
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 417,
           FACILITYID: 44004,
           ACCESS_NAM: "John D Long",
@@ -4998,12 +4999,12 @@
           NAVOCEAN: 0,
           X: -81.515148,
           Y: 34.774164
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 418,
           FACILITYID: 44005,
           ACCESS_NAM: "Jonesville Reservoir",
@@ -5023,12 +5024,12 @@
           NAVOCEAN: 0,
           X: -81.679077,
           Y: 34.857399
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 419,
           FACILITYID: 45002,
           ACCESS_NAM: "Highway 52",
@@ -5048,12 +5049,12 @@
           NAVOCEAN: 1,
           X: -79.960485,
           Y: 33.494857
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 264,
           FACILITYID: 26021,
           ACCESS_NAM: "Bucksville",
@@ -5073,12 +5074,12 @@
           NAVOCEAN: 1,
           X: -79.052891,
           Y: 33.72968
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 266,
           FACILITYID: 26023,
           ACCESS_NAM: "Causey",
@@ -5098,12 +5099,12 @@
           NAVOCEAN: 1,
           X: -79.074212,
           Y: 34.292725
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 267,
           FACILITYID: 26024,
           ACCESS_NAM: "Enterprise",
@@ -5123,12 +5124,12 @@
           NAVOCEAN: 1,
           X: -79.060821,
           Y: 33.667833
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 268,
           FACILITYID: 26025,
           ACCESS_NAM: "Cherry Grove",
@@ -5148,12 +5149,12 @@
           NAVOCEAN: 1,
           X: -78.617459,
           Y: 33.841981
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 271,
           FACILITYID: 26028,
           ACCESS_NAM: "Highway 544",
@@ -5173,12 +5174,12 @@
           NAVOCEAN: 1,
           X: -79.007499,
           Y: 33.686697
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 272,
           FACILITYID: 27001,
           ACCESS_NAM: "Bolan Hall",
@@ -5198,12 +5199,12 @@
           NAVOCEAN: 1,
           X: -80.851621,
           Y: 32.419275
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 273,
           FACILITYID: 27002,
           ACCESS_NAM: "Becks Ferry",
@@ -5223,12 +5224,12 @@
           NAVOCEAN: 1,
           X: -81.127988,
           Y: 32.339215
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 274,
           FACILITYID: 27003,
           ACCESS_NAM: "B & C",
@@ -5248,12 +5249,12 @@
           NAVOCEAN: 1,
           X: -81.207774,
           Y: 32.485339
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 277,
           FACILITYID: 27006,
           ACCESS_NAM: "Millstone",
@@ -5273,12 +5274,12 @@
           NAVOCEAN: 1,
           X: -81.118388,
           Y: 32.28682
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 278,
           FACILITYID: 27007,
           ACCESS_NAM: "Corner Lake",
@@ -5298,12 +5299,12 @@
           NAVOCEAN: 1,
           X: -80.952126,
           Y: 32.678453
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 279,
           FACILITYID: 27008,
           ACCESS_NAM: "Turn Bridge",
@@ -5323,12 +5324,12 @@
           NAVOCEAN: 1,
           X: -81.013506,
           Y: 32.129695
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 281,
           FACILITYID: 27010,
           ACCESS_NAM: "Cooks",
@@ -5348,12 +5349,12 @@
           NAVOCEAN: 1,
           X: -80.998976,
           Y: 32.194356
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 283,
           FACILITYID: 28002,
           ACCESS_NAM: "Beaver Creek",
@@ -5373,12 +5374,12 @@
           NAVOCEAN: 0,
           X: -80.770022,
           Y: 34.434063
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 286,
           FACILITYID: 28005,
           ACCESS_NAM: "Lugoff",
@@ -5398,12 +5399,12 @@
           NAVOCEAN: 1,
           X: -80.699727,
           Y: 34.333438
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 287,
           FACILITYID: 29001,
           ACCESS_NAM: "Highway 9",
@@ -5423,12 +5424,12 @@
           NAVOCEAN: 0,
           X: -80.866007,
           Y: 34.709115
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 289,
           FACILITYID: 29003,
           ACCESS_NAM: "Stumpy Pond",
@@ -5448,12 +5449,12 @@
           NAVOCEAN: 0,
           X: -80.870361,
           Y: 34.551117
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 290,
           FACILITYID: 29004,
           ACCESS_NAM: "Cedar Creek",
@@ -5473,12 +5474,12 @@
           NAVOCEAN: 0,
           X: -80.873562,
           Y: 34.539019
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 292,
           FACILITYID: 29006,
           ACCESS_NAM: "William L. Catoe (Bear Creek)",
@@ -5498,12 +5499,12 @@
           NAVOCEAN: 0,
           X: -80.754985,
           Y: 34.702163
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 293,
           FACILITYID: 30001,
           ACCESS_NAM: "Laurens Shrine Club",
@@ -5523,12 +5524,12 @@
           NAVOCEAN: 0,
           X: -82.0717,
           Y: 34.293597
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 295,
           FACILITYID: 31001,
           ACCESS_NAM: "Highway 15",
@@ -5548,12 +5549,12 @@
           NAVOCEAN: 1,
           X: -80.212761,
           Y: 34.249833
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 297,
           FACILITYID: 31003,
           ACCESS_NAM: "Lake Ashwood",
@@ -5573,12 +5574,12 @@
           NAVOCEAN: 0,
           X: -80.314895,
           Y: 34.103557
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 299,
           FACILITYID: 32001,
           ACCESS_NAM: "Rocky Point",
@@ -5598,12 +5599,12 @@
           NAVOCEAN: 0,
           X: -81.38447,
           Y: 34.09591
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 302,
           FACILITYID: 32004,
           ACCESS_NAM: "Thomas H Newman",
@@ -5623,12 +5624,12 @@
           NAVOCEAN: 1,
           X: -81.029508,
           Y: 33.94913
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 304,
           FACILITYID: 32006,
           ACCESS_NAM: "James R. Metts (Hope Ferry)",
@@ -5648,12 +5649,12 @@
           NAVOCEAN: 1,
           X: -81.191271,
           Y: 34.04598
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 305,
           FACILITYID: 32007,
           ACCESS_NAM: "Lake Murray Dam",
@@ -5673,12 +5674,12 @@
           NAVOCEAN: 0,
           X: -81.22241,
           Y: 34.065032
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 308,
           FACILITYID: 33002,
           ACCESS_NAM: "New Bordeaux",
@@ -5698,12 +5699,12 @@
           NAVOCEAN: 0,
           X: -82.35897,
           Y: 33.859901
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 309,
           FACILITYID: 33003,
           ACCESS_NAM: "Mt Pleasant",
@@ -5723,12 +5724,12 @@
           NAVOCEAN: 0,
           X: -82.567466,
           Y: 33.998935
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 310,
           FACILITYID: 33004,
           ACCESS_NAM: "Mt Carmel Park",
@@ -5748,12 +5749,12 @@
           NAVOCEAN: 0,
           X: -82.534111,
           Y: 33.957944
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 312,
           FACILITYID: 33006,
           ACCESS_NAM: "Leroys Ferry",
@@ -5773,12 +5774,12 @@
           NAVOCEAN: 0,
           X: -82.489701,
           Y: 33.919998
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 315,
           FACILITYID: 33009,
           ACCESS_NAM: "Bakers Creek Welcome Center",
@@ -5798,12 +5799,12 @@
           NAVOCEAN: 0,
           X: -82.361531,
           Y: 33.877774
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 316,
           FACILITYID: 33010,
           ACCESS_NAM: "Baker Creek State Park",
@@ -5823,12 +5824,12 @@
           NAVOCEAN: 0,
           X: -82.367801,
           Y: 33.886297
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 317,
           FACILITYID: 33011,
           ACCESS_NAM: "Hawe Creek Campsite",
@@ -5848,12 +5849,12 @@
           NAVOCEAN: 0,
           X: -82.340801,
           Y: 33.834198
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 318,
           FACILITYID: 33012,
           ACCESS_NAM: "Landrum Creek",
@@ -5873,12 +5874,12 @@
           NAVOCEAN: 0,
           X: -82.284936,
           Y: 33.81458
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 322,
           FACILITYID: 33016,
           ACCESS_NAM: "Modoc Park",
@@ -5898,12 +5899,12 @@
           NAVOCEAN: 0,
           X: -82.23028,
           Y: 33.732188
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 323,
           FACILITYID: 33017,
           ACCESS_NAM: "Modoc Camp Area",
@@ -5923,12 +5924,12 @@
           NAVOCEAN: 0,
           X: -82.224818,
           Y: 33.718326
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 324,
           FACILITYID: 33018,
           ACCESS_NAM: "Scotts Ferry",
@@ -5948,12 +5949,12 @@
           NAVOCEAN: 0,
           X: -82.201774,
           Y: 33.68091
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 327,
           FACILITYID: 33021,
           ACCESS_NAM: "Long Cane Creek Picnic Area",
@@ -5973,12 +5974,12 @@
           NAVOCEAN: 0,
           X: -82.392831,
           Y: 33.934333
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 330,
           FACILITYID: 33024,
           ACCESS_NAM: "Buffalo Creek Subdivision",
@@ -5998,12 +5999,12 @@
           NAVOCEAN: 0,
           X: -82.380336,
           Y: 33.894411
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 335,
           FACILITYID: 34002,
           ACCESS_NAM: "Red Bluff",
@@ -6023,12 +6024,12 @@
           NAVOCEAN: 1,
           X: -79.197158,
           Y: 34.169932
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 336,
           FACILITYID: 34003,
           ACCESS_NAM: "Locust Tree",
@@ -6048,12 +6049,12 @@
           NAVOCEAN: 1,
           X: -79.333732,
           Y: 33.956657
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 337,
           FACILITYID: 34004,
           ACCESS_NAM: "Dunham Bluff",
@@ -6073,14 +6074,13 @@
           NAVOCEAN: 1,
           X: -79.341279,
           Y: 33.842769
-        },
-        geometry: null
-      },
-      {
-        type: "Feature",
-        properties: {
+          },
+          geometry: null
+          },
+          {
+          type: "Feature",
+          properties: {
           OBJECTID: 338,
-          FACILITYID: 34005,
           ACCESS_NAM: "Joseph Holiday",
           COUNTY: "Marion",
           WATER_BODY: "Little Pee Dee River",

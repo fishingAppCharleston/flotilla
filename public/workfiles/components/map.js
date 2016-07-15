@@ -11,7 +11,6 @@ export default (props) => {
 					defaultZoom={12} 
 					defaultCenter={{lat: props.lat, lng: props.lng}}
 				>
-				{this.landingPins(props.filters[0])}
 			</GoogleMap>
 
 			}
@@ -20,7 +19,7 @@ export default (props) => {
 
 function landingPins(pins) {
 	return (
-		this.props.pins.map((pin) => {
+		pins.map((pin) => {
 				return (
 					<Marker
 						{...{position: {lat: pin, lng: pin}}}

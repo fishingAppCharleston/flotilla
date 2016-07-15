@@ -1,20 +1,20 @@
-import lodash from 'lodash';
-import { createSelector } from 'reselect';
+// import lodash from 'lodash';
+// import { createSelector } from 'reselect';
 
-const filtersSelector = state => state.filters;
-const selectedFiltersSelector = state => state.selectedFilterIds
+// const filtersSelector = state => state.filters;
+// const selectedFiltersSelector = state => state.selectedFilterIds
 
-const getFilters = (filters, selectedFilterIds) => {
-  const selectedFilters = _.filter(
-    filters,
-    filter => _.contains(selectedFilterIds, post.id)
-  );
+// const getFilters = (filters, selectedFilterIds) => {
+//   const selectedFilters = _.filter(
+//     filters,
+//     filter => _.contains(selectedFilterIds, filter.Ids)
+//   );
 
-  return selectedFilters;
-};
+//   return selectedFilters;
+// };
 
-export default createSelector(
-  filtersSelector,
-  selectedFiltersSelector,
-  getFilters
-);
+// export default createSelector(
+//   filtersSelector,
+//   selectedFiltersSelector,
+//   getFilters
+// );

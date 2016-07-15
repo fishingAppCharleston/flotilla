@@ -1,31 +1,18 @@
 import React, { Component } from 'react';
+import { UPDATE_LOC_SEARCH as UPDATE } from '../actions/index';
 
-class Search extends Component {
-
-      render() {
-          return (
-              <div className="input-form">
-                <form onSubmit={event => this.onSubmit(event.target.value)}>
-                  <input
-                    value={this.state.search}
-                    onChange={event => this.onInputChange(event.target.value)}
-                  />
-                  <button>
-                    Search
-                  </button>
-                </form>
-              </div>
-          );
-      }
-
-      onClickSubmit(event) {
-          event.preventDefault();
-          let { search } = this.state;
-          this.setState( {search: ''});
-          this.props.onSubmit(search);
-      }
-      onInputChange(search) {
-          this.setState({search});
-      }
-}
-export default Search;
+export default (props) => {
+  return (
+      <div className="input-form">
+        <form onSubmit={event => props.onSubmit(event.target.value)}>
+          <input
+            value={props.input}
+            onChange={event => props.updateInput(UPDATE, event.target.value)}
+          />
+          <button>
+            Search
+          </button>
+        </form>
+      </div>
+  );
+};

@@ -3,6 +3,7 @@ import axios from 'axios';
 export const ADD_FILTER = 'ADD_FILTER';
 export const REMOVE_FILTER = 'REMOVE_FILTER';
 export const SEARCH_LOCATION = 'SEARCH_LOCATION';
+export const UPDATE_LOC_SEARCH = 'UPDATE_LOC_SEARCH';
 
 const ROOT_URL = 'localhost:8080';
 const GMAP_URL = 'gmapsapiroot';
@@ -23,4 +24,11 @@ export function searchLocaction (search) {
     type: SEARCH_LOCATION,
     payload: request
   };
+}
+
+export function updateInput(type, input) {
+  return {
+    type: type,
+    payload: input
+  }
 }

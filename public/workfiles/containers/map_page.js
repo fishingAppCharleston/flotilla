@@ -1,26 +1,24 @@
-/* eslint esnext: true */
 import React, { Component, } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
-import store from '../index';
 import Search from '../components/search';
 import Map from '../components/map';
 import Legend from '../components/map_legend';
 
-import { fetchLandings, searchLocation as search  } from '../actions/index';
+import { fetchLandings, searchLocation as search, updateInput } from '../actions/index';
 
 class MapPage extends Component {
 
   render() {
     let { lat, lng } = this.props.map.position;
-    console.log(store);
-    console.log("please render")
+    let { filters, search } = this.props.map;
+    
     return (	
       <div>
-        <Search onSubmit={ search } />
+        <Search onSubmit={ search } input={search} updateSearch={ updateInput } />
         <Legend />
-        <Map filter={this.props.map.filters} lng={ lng } lat={ lat } />
+        <Map filter={filters} lng={ lng } lat={ lat } />
       </div>
     )
   }
@@ -33,7 +31,7 @@ function mapStateToProps(state) {
 }
 
 function mapDispatchToProps(dispatch) {
-    return bindActionCreators({ fetchLandings, search }, dispatch);
+    return bindActionCreators({ fetchLandings, search, updateInput}, dispatch);
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(MapPage);
