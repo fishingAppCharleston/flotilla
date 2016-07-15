@@ -6,8 +6,25 @@ export default (props) => {
 		<GoogleMapLoader
 			containerElement={ <div id="map-container" style={{height: '400px'}} /> }
 			googleMapElement={
-				<GoogleMap defaultZoom={12} defaultCenter={{lat: props.lat, lng: props.lng}} />
+				<GoogleMap 
+					ref={(map) => console.log(map)}
+					defaultZoom={12} 
+					defaultCenter={{lat: props.lat, lng: props.lng}}
+				>
+			</GoogleMap>
+
 			}
 		/>
-	);
+	)}
+
+function landingPins(pins) {
+	return (
+		pins.map((pin) => {
+				return (
+					<Marker
+						{...{position: {lat: pin, lng: pin}}}
+					/>
+				);
+		})
+	)
 }

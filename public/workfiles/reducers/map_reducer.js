@@ -1,6 +1,7 @@
-import { ADD_FILTER, REMOVE_FILTER } from '../actions/index';
+import { ADD_FILTER, REMOVE_FILTER, UPDATE_LOC_SEARCH } from '../actions/index';
+// import { createSelector } from 'reselect';
 
-const INITIAL_STATE = { filters: [ { } ], position: { lat: 32.7765, lng: -79.9311 } };
+const INITIAL_STATE = { search: '', filters: [ { } ], selectedFilterIds: [ ], position: { lat: 32.7765, lng: -79.9311 } };
 
 export default function(state = INITIAL_STATE, action) {
   switch(action.type) {
@@ -16,6 +17,11 @@ export default function(state = INITIAL_STATE, action) {
           (filter) => action.payload.type !== filter.type
         )]
       };
+    case UPDATE_LOC_SEARCH:
+      return {
+        ...state,
+        search: action.payload
+      }
   }
   return state;
 }
